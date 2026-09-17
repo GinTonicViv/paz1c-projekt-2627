@@ -1,15 +1,10 @@
 # paz1c-projekt-2627
 
-### UZ si sa pripojil :P?
+```java
+void main() {
+    System.out.println("Hellaurrr");
+}
+```
 
-
-
-> poznamka : dobri den
-
-
-Ulohy:
-    [] ahoj
-    [] dobri den
-
-
-Lorem Ipsum
+> [!IMPORTANT]
+> Do 15.10.2026 Je potrebne vymysliet projekt
