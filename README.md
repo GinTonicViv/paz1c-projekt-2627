@@ -2,9 +2,11 @@
 
 ### UZ si sa pripojil :P?
 
+jo
 
 
-> poznamka : dobri den
+
+> poznamka : dobry den
 
 
 Ulohy:
