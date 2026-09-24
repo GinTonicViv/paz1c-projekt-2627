@@ -4,6 +4,6 @@
 > Do 15.10.2026 Je potrebne vymysliet projekt
 
 cv02
-jakub: git@github.com:GinTonicViv/attender-cv-kubo.git
+jakub: https://github.com/GinTonicViv/attender-cv-kubo.git
 
 https://github.com/CaptainRepus/paz1c.git
