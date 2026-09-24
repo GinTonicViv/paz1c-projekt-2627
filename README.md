@@ -5,3 +5,5 @@
 
 cv02
 jakub: git@github.com:GinTonicViv/attender-cv-kubo.git
+
+https://github.com/CaptainRepus/paz1c.git
